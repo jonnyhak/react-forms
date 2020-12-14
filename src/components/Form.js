@@ -1,5 +1,6 @@
 import React from 'react';
 
+//initiated
 class Form extends React.Component {
   state = {
     firstName: "John",
